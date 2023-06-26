@@ -8,3 +8,5 @@ It will overwrite your existing favorites
 Some servers will appear as not responding despite them being on the list, can't do much about that (i think)
 
 Exe was generated with auto-py-to-exe
+
+Windows only for now, can't guarantee it working on Linux
